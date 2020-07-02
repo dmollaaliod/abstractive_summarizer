@@ -1,6 +1,6 @@
 # Abstractive Text Summarization using Transformer
 
-- Implemntation of the state of the art Transformer Model from "Attention is all you need", Vaswani et. al.
+- Implementation of the state of the art Transformer Model from "Attention is all you need", Vaswani et. al.
   https://arxiv.org/abs/1706.03762
 
 - Inshorts Dataset: https://www.kaggle.com/shashichander009/inshorts-news-data
@@ -11,6 +11,10 @@
 Part-I: https://towardsdatascience.com/transformers-explained-65454c0f3fa7 
 
 Part-II: https://medium.com/swlh/abstractive-text-summarization-using-transformers-3e774cc42453
+
+## Related tutorial
+
+Much of the code in this repository is in TensorFlow's tutorial [Transformer Model for Language Understanding](https://www.tensorflow.org/tutorials/text/transformer). The tutorial has much detail and a must-read.
 
 # Transformers Explained
 
