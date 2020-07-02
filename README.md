@@ -14,7 +14,7 @@ Part-II: https://medium.com/swlh/abstractive-text-summarization-using-transforme
 
 ## Related tutorial
 
-Much of the code in this repository is in TensorFlow's tutorial [Transformer Model for Language Understanding](https://www.tensorflow.org/tutorials/text/transformer). The tutorial has much detail and a must-read.
+Much of the code in this repository is in TensorFlow's tutorial [Transformer Model for Language Understanding](https://www.tensorflow.org/tutorials/text/transformer). The tutorial has much detail and is a must-read.
 
 # Transformers Explained
 
